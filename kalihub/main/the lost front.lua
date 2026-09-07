@@ -1,3 +1,6 @@
+--this shit was unobfuscated
+
+
 if getgenv().KaliHubLostFront then
 pcall(getgenv().KaliHubLostFront.unload)
 end
