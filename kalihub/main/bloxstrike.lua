@@ -1,3 +1,6 @@
+--this shit was unobfuscated
+
+
 local genv = getgenv()
 local _ = genv.debug
 local _ = genv.debug
