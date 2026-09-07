@@ -1,3 +1,6 @@
+--this shit was unobfuscated
+
+
 game:GetService("ReplicatedStorage"):WaitForChild("edrsi73G1ML3H3rtubgaJmMPh").Value = math.random(1, 1000000000)
 ---Key System
 local data = {}
